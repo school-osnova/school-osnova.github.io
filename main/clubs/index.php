@@ -1,0 +1,192 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Територія обслуговування - ЗЗОШ "ОСНОВА"</title>
+		<meta charset="utf-8" lang="ua" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+
+	</head>
+	<body class="contact is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="/">ЗЗОШ <span>"ОСНОВА"</span></a></h1>
+					<nav id="nav">
+						<ul>
+							<li class="submenu">
+								<a href="#">Інше</a>
+								<ul>
+									<li><a href="/other/contact/">Контакти</a></li>
+									<li><a href="https://znvkosnova.jimdofree.com/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0-%D1%94%D0%B4%D0%B8%D0%BD%D0%B0/">УКРАЇНА ЄДИНА!</a></li>
+									<li><a href="/other/inclusion/">Інклюзивне навчання</a></li>
+                  					<li><a href="/other/document/">Установчі документи навчального закладу</a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#">Головне</a>
+								<ul>
+									<li><a href="/main/territory/">Територія обслуговування ЗЗОШ "ОСНОВА"</a></li>
+                  					<li><a href="https://osnova2009.jimdofree.com/">Благодійний фонд</a></li>
+                  					<li><a href="/main/living">Вчимося жити разом</a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#">Візитна картка</a>
+								<ul>
+									<li><a href="/card/symbols/">Наша символіка</a></li>
+									<li><a href="/card/structure/">Структура школи</a></li>
+									<li><a href="/card/сhronicle/">Літопис школи</a></li>
+								</ul>
+							</li>
+							<li><a href="/map/" class="button primary toggle">Карта сайта</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<article id="main">
+
+					<header class="special container">
+
+						<h2>Освіта за інтересами</h2>
+						<br />
+						<header class="special container"></header>
+
+					</header>
+
+					<!-- One -->
+						<section class="wrapper style3 container special">
+							<table>
+								<tbody>
+									<strong><h3>
+										<tr>
+											<td class="table"><a href="https://chessshulga.jimdofree.com/%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BB%D0%B0%D0%B4%D1%8C%D1%8F/">
+												Шаховий клуб "Боббі Фішер"
+											</a></td>
+											<td class="table">
+												БізнесШкола ЮніорБанк
+											</td>
+											<td class="table"><a href="https://zochetym.wixsite.com/zochetym#!--/c1b2u">
+												Бісероплетіння "Дивосвіт"
+											</a></td>
+										</tr>
+										<tr>
+											<td class="table"><a href="http://spas.zp.ua/%d1%81%d0%bf%d0%be%d1%80%d1%82%d0%b8%d0%b2%d0%bd%d1%96-%d1%88%d0%ba%d0%be%d0%bb%d0%b8/">
+												СПАС
+											</a></td>
+											<td class="table">
+												Школа Краси від Аріадни
+											</td>
+											<td class="table">
+												Найпростіші технічні моделі
+											</td>
+										</tr>
+										<tr>
+											<td class="table">
+												Прикладна інформатика
+											</td>
+											<td class="table">
+												Хореографія
+											</td>
+											<td class="table">
+												Стендове моделювання
+											</td>
+										</tr>
+										<tr>
+											<td class="table">
+												Туризм та краєзнавство
+											</td>
+											<td class="table">
+												Хор
+											</td>
+											<td class="table">
+												Юні флористи
+											</td>
+										</tr>
+										<tr>
+											<td class="table">
+												Етнографічний гурток "Ярило"
+											</td>
+											<td class="table"><a href="https://zochetym.wixsite.com/zochetym#!about/c1wfv">
+												Абетка мистецтв
+											</a></td>
+											<td class="table">
+												Початкове технічне моделювання
+											</td>
+										</tr>
+										<tr>
+											<td class="table"><a href="https://ru.calameo.com/read/001346582aa093a6ef30f">
+												Клуб автомобілістів
+											</a></td>
+											<td class="table"><a href="https://osnovazp.wixsite.com/gpdosnovacontact">
+												Орігамі
+											</a></td>
+											<td class="table">
+												Чарівний квіллінг
+											</td>
+										</tr>
+										<tr>
+											<td class="table"><a href="https://olgakhristich.jimdofree.com/bridge-to-english/english-theatre-i-m-actor/">
+												Театр англійською
+											</a></td>
+											<td class="table">
+												Народознавство
+											</td>
+											<td class="table">
+												Ліплення
+											</td>
+										</tr>
+										<tr>
+											<td class="table">
+												Happy English
+											</td>
+											<td class="table"><a href="http://botsad.zp.ua/#">
+												Прикладне мистецтво
+											</a></td>
+											<td class="table"><a href="https://osnova4bgpd.wixsite.com/4bgpd">
+												Україна майбутнього
+											</a></td>
+										</tr>
+										<tr>
+											<td class="table"><a href="https://sun2015.jimdofree.com/%D0%B6%D0%B8%D1%82%D1%82%D1%8F-2-%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%83/%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F-%D0%B7%D0%B0-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B0%D0%BC%D0%B8-%D0%B4%D1%96%D1%82%D0%B5%D0%B9-%D0%BC%D0%B0%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B6%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81/">
+												Живопис
+											</a></td>
+											<td class="table">
+												Школа казкознавства
+											</td>
+											<td class="table">
+												Дослідники
+											</td>
+										</tr>
+									</h3></strong>
+								</tbody>
+							</table>
+						</section>
+				</article>
+
+			<!-- Footer -->
+				<footer id="footer">
+
+					<ul class="copyright">
+						<li>ЗЗОШ "ОСНОВА"</li>
+					</ul>
+
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollgress.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
